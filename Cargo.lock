@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "git-build-automation"
+name = "my-ci"
 version = "0.1.0"
